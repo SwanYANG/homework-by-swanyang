@@ -1,0 +1,35 @@
+.written{float: right;/*第一稿原来是right*/
+    width: 20%; 
+    }
+.flex{display: flex;
+  flex-wrap: nowrap;}
+.total{background-image: url("https://img0.baidu.com/it/u=3348924809,251859837&fm=26&fmt=auto")}
+.A{border:solid black 2px;}
+.B{border: black solid 2px;
+   float: left;
+   font-family:algerian,courier;
+   font-size:500%;width:auto;
+   height: auto;
+  }
+.C{float: right; 
+  font-size:200%;
+  width:auto;height: auto;
+}
+.D{background-color: white;}
+.REMER{border: black 2px solid; 
+  display: flex; flex: auto;
+  
+}
+.last{float: left;
+   width: 30%}
+#buttonadd{background-color: pink; 
+  font-size: 10px;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  }
+#buttonadd:hover{background-color: antiquewhite;}
+.imandur{font-size: 10px; color:#DEE0FF;}   
+.im{font-size: 10px; color:#A271FF ;}
+.ur{font-size: 10px; color:#DFC8FF ;}
+.notimandur{font-size: 10px; color:#0083FF;}
+.reduli{text-decoration:line-through;}
